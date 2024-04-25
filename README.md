@@ -1,23 +1,28 @@
 # THU_RML
-Quasi-Experimental Research Project focusing on the impact of Recreational Marijuana Legalization (RML) across North American states. 
+This repository gives access to the datasets and source code for reproducing the results from our paper. <br /> Our paper uses a quasi-experimental framework to investigate the impact of recreational marijuana legalization (RML) across North American states. 
 
-# Project Title
+# Title
 **The American Green Waves: Effects of Recreational Marijuana Legalization on Firm Performance, Productivity, and Innovation**
 
-# Description
-This repository gives access to the datasets and source code for reproducing the results from our paper.
+# Abstract
+Incorporating the theoretical nexus between individual health and economic growth, we employ a quasi-experimental framework to investigate the impact of recreational marijuana legalization (RML) and marijuana's increased use on firm behaviors. Leveraging the staggered implementation of RML across 14 U.S. states and Canadian provinces from 2007 to 2021, we utilize a robust difference-in-differences (DiD) event-study methodology. Despite an initial positive market response to RML in the short term, indicating a cultural acceptance of marijuana use, our analysis reveals a subsequent reduction in overall firm performance over the long term, manifested through declines in sales, profitability, and valuation. More importantly, we find that RML detrimentally impacts firms' innovation capacity, evidenced by declines in patent quality, originality, and research impact. These results are associated with a decrease in employee productivity and collaborative effectiveness among diverse individuals, suggesting a negative influence of RML on the production and innovation processes within firms, from ideation to realization. These results are further associated with a significant increase of 2.87\% in marijuana prevalence among adults, which coincides with an immediate decline in individual cognitive function, as proxied by an increase in work-related and automobile accidents.
+
 
 # Authors
-Geoffrey Ducournau, *Tsinghua University*
-Jinliang Li, *Tsinghua University*
-Yan Li, *The University of Hong Kong*
-Zigan Wang, *Tsinghua University*
-Qie Ellie Yin, *Hong Kong Baptist University*
+Geoffrey Ducournau, *Tsinghua University* <br />
+Jinliang Li, *Tsinghua University* <br />
+Yan Li, *The University of Hong Kong* <br />
+Zigan Wang, *Tsinghua University* <br />
+Qie Ellie Yin, *Hong Kong Baptist University* <br />
+***All errors are ours.***
 
 # Correspondence
 Geoffrey Ducournau, *Tsinghua University* [gduc@sem.tsinghua.edu.cn]
 
-# Source Code to Reproduce Tables:
+# Acknowledgments
+This work was supported by the School of Economics and Management (SEM) of Tsinghua University and received funding from the China Ministry of Science and Technology (**2023YFC3305402**).
+
+# Data and Replication Code:
 ## Table3 and TableA3:
 > From the folder ./Public_Firm_Level_Samples download the sample ```S1.dta``` and run the following commands:
 ```bash
