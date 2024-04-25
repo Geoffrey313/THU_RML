@@ -25,7 +25,7 @@ eventstudyinteract Abnormal_Stock_Return  g_m5 g_m4 g_m3 g_m2 g_0 g_1 g_2 g_3 g_
 
 matrix b = e(b_iw)
 matrix V = e(V_iw)
-ereturn post b V}{p_end}
+ereturn post b V
 lincom (g_m5 + g_m4 + g_m3 + g_m2)/4
 lincom (g_0 + g_1 + g_2 + g_3)/4
 ```
@@ -35,7 +35,7 @@ eventstudyinteract Analyst_Forecast  g_m5 g_m4 g_m3 g_m2 g_0 g_1 g_2 g_3 g_4, co
 
 matrix b = e(b_iw)
 matrix V = e(V_iw)
-ereturn post b V}{p_end}
+ereturn post b V
 lincom (g_m5 + g_m4 + g_m3 + g_m2)/4
 lincom (g_0 + g_1 + g_2 + g_3)/4
 ```
@@ -47,7 +47,7 @@ eventstudyinteract $DEP_VAR$  g_m5 g_m4 g_m3 g_m2 g_0 g_1 g_2 g_3 g_4, cohort(co
 
 matrix b = e(b_iw)
 matrix V = e(V_iw)
-ereturn post b V}{p_end}
+ereturn post b V
 lincom (g_m5 + g_m4 + g_m3 + g_m2)/4
 lincom (g_0 + g_1 + g_2 + g_3)/4
 ```
@@ -60,7 +60,7 @@ reghdfe $DEP_VAR$  g_m5 g_m4 g_m3 g_m2 g_0 g_1 g_2 g_3 g_4  GDP GDP_Growth Popul
 
 matrix b = e(b_iw)
 matrix V = e(V_iw)
-ereturn post b V}{p_end}
+ereturn post b V
 lincom (g_m5 + g_m4 + g_m3 + g_m2)/4
 lincom (g_0 + g_1 + g_2 + g_3)/4
 ```
@@ -73,7 +73,7 @@ eventstudyinteract School_Performance  g_m5 g_m4 g_m3 g_m2 g_0 g_1 g_2 g_3 g_4, 
 
 matrix b = e(b_iw)
 matrix V = e(V_iw)
-ereturn post b V}{p_end}
+ereturn post b V
 lincom (g_m5 + g_m4 + g_m3 + g_m2)/4
 lincom (g_0 + g_1 + g_2 + g_3)/4
 ```
