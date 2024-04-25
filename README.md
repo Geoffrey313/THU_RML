@@ -17,7 +17,8 @@ Qie Ellie Yin, *Hong Kong Baptist University* <br />
 ***All errors are ours.***
 
 # Correspondence
-Geoffrey Ducournau, *Tsinghua University* [gduc@sem.tsinghua.edu.cn]
+Geoffrey Ducournau, *Tsinghua University* (gduc@sem.tsinghua.edu.cn) <br />
+Zigan Wang, *Tsinghua University* (wangzg@sem.tsinghua.edu.cn)
 
 # Acknowledgments
 This work was supported by the School of Economics and Management (SEM) of Tsinghua University and received funding from the China Ministry of Science and Technology (**2023YFC3305402**).
