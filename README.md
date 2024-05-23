@@ -1,4 +1,4 @@
-![image](https://github.com/Geoffrey313/THU_RML/assets/70305495/8aa9df36-2fb4-47c1-99a2-656849ded1f8)# THU_RML
+# THU_RML
 This repository gives access to the datasets and source code for reproducing the results from our paper. <br /> Our paper uses a quasi-experimental framework to investigate the impact of recreational marijuana legalization (RML) across North American states. 
 
 # Title
